@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --color-cips-navy: #0B1F3B;
+  --color-cips-bg: #F5F7FA;
+  --color-cips-text: #1F2937;
+}
